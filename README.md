@@ -23,13 +23,14 @@ A minimal C# WinForms application that connects to an Arduino Uno via serial por
 ### Software
 - Visual Studio 2019 or later
 - .NET Framework 4.7.2 or later
-- Windows Forms App template
+- Windows Forms App template  
+  ![VS](Docs/VS.jpg)
 
 ## Installation
 1. Clone this repository
 2. Open the solution file in Visual Studio
 3. Build the solution (Ctrl+Shift+B)
-4. Configure COM port in Form1.cs if needed
+4. Configure COM port in Form1.cs if needed  
    ![Arduino-IDE](Docs/Arduino-ide.jpg)
 6. Run the application (F5)
 

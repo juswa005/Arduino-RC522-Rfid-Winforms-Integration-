@@ -1,0 +1,10 @@
+C:\Users\amiel\source\repos\RFIDReaderApp\RFIDReaderApp\bin\Debug\RFIDReaderApp.exe.config
+C:\Users\amiel\source\repos\RFIDReaderApp\RFIDReaderApp\bin\Debug\RFIDReaderApp.exe
+C:\Users\amiel\source\repos\RFIDReaderApp\RFIDReaderApp\bin\Debug\RFIDReaderApp.pdb
+C:\Users\amiel\source\repos\RFIDReaderApp\RFIDReaderApp\obj\Debug\RFIDReaderApp.csproj.AssemblyReference.cache
+C:\Users\amiel\source\repos\RFIDReaderApp\RFIDReaderApp\obj\Debug\RFIDReaderApp.Form1.resources
+C:\Users\amiel\source\repos\RFIDReaderApp\RFIDReaderApp\obj\Debug\RFIDReaderApp.Properties.Resources.resources
+C:\Users\amiel\source\repos\RFIDReaderApp\RFIDReaderApp\obj\Debug\RFIDReaderApp.csproj.GenerateResource.cache
+C:\Users\amiel\source\repos\RFIDReaderApp\RFIDReaderApp\obj\Debug\RFIDReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\amiel\source\repos\RFIDReaderApp\RFIDReaderApp\obj\Debug\RFIDReaderApp.exe
+C:\Users\amiel\source\repos\RFIDReaderApp\RFIDReaderApp\obj\Debug\RFIDReaderApp.pdb

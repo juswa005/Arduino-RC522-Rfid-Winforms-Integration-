@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amiel\\source\\repos\\RFIDReaderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7761F5-C332-4908-92E3-B9BAD7508A19}|RFIDReaderApp\\RFIDReaderApp.csproj|c:\\users\\amiel\\source\\repos\\rfidreaderapp\\rfidreaderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB7761F5-C332-4908-92E3-B9BAD7508A19}|RFIDReaderApp\\RFIDReaderApp.csproj|solutionrelative:rfidreaderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7761F5-C332-4908-92E3-B9BAD7508A19}|RFIDReaderApp\\RFIDReaderApp.csproj|C:\\Users\\amiel\\source\\repos\\RFIDReaderApp\\rfidreaderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7761F5-C332-4908-92E3-B9BAD7508A19}|RFIDReaderApp\\RFIDReaderApp.csproj|solutionrelative:rfidreaderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7761F5-C332-4908-92E3-B9BAD7508A19}|RFIDReaderApp\\RFIDReaderApp.csproj|C:\\Users\\amiel\\source\\repos\\RFIDReaderApp\\rfidreaderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7761F5-C332-4908-92E3-B9BAD7508A19}|RFIDReaderApp\\RFIDReaderApp.csproj|solutionrelative:rfidreaderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\amiel\\source\\repos\\RFIDReaderApp\\RFIDReaderApp\\Form1.cs",
+              "RelativeDocumentMoniker": "RFIDReaderApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\amiel\\source\\repos\\RFIDReaderApp\\RFIDReaderApp\\Form1.cs",
+              "RelativeToolTip": "RFIDReaderApp\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:27:48.276Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amiel\\source\\repos\\RFIDReaderApp\\RFIDReaderApp\\Program.cs",
+              "RelativeDocumentMoniker": "RFIDReaderApp\\Program.cs",
+              "ToolTip": "C:\\Users\\amiel\\source\\repos\\RFIDReaderApp\\RFIDReaderApp\\Program.cs",
+              "RelativeToolTip": "RFIDReaderApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:25:27.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amiel\\source\\repos\\RFIDReaderApp\\RFIDReaderApp\\Form1.cs",
+              "RelativeDocumentMoniker": "RFIDReaderApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\amiel\\source\\repos\\RFIDReaderApp\\RFIDReaderApp\\Form1.cs [Design]",
+              "RelativeToolTip": "RFIDReaderApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:24:11.235Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
