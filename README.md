@@ -7,7 +7,7 @@ Simple Windows desktop application that displays RFID tag IDs from Arduino via s
 ---
 
 ## Description
-A minimal C# WinForms application that connects to an Arduino Uno via serial port and displays RFID tag IDs in real-time. Designed to work with [Arduino-based RFID reader systems](https://github.com/your-username/Arduino-RFID-RC522), this app provides a clean interface for reading and displaying RFID card/tag identification numbers.
+A minimal C# WinForms application that connects to an Arduino Uno via serial port and displays RFID tag IDs in real-time. Designed to work with [Arduino-based RFID reader systems](https://github.com/juswa005/Arduino-RC522-Rfid.git), this app provides a clean interface for reading and displaying RFID card/tag identification numbers.
 
 ## Features
 - Real-time RFID tag display
@@ -30,7 +30,8 @@ A minimal C# WinForms application that connects to an Arduino Uno via serial por
 2. Open the solution file in Visual Studio
 3. Build the solution (Ctrl+Shift+B)
 4. Configure COM port in Form1.cs if needed
-5. Run the application (F5)
+   ![Arduino-IDE](Docs/Arduino-ide.jpg)
+6. Run the application (F5)
 
 ## Usage
 1. Connect your [Arduino RFID reader](https://github.com/juswa005/Arduino-RC522-Rfid.git) to PC via USB
