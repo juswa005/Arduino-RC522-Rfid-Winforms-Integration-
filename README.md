@@ -18,7 +18,7 @@ A minimal C# WinForms application that connects to an Arduino Uno via serial por
 
 ### Hardware
 - Windows PC/Laptop
-- [Arduino Uno with RFID sensor](https://github.com/your-username/Arduino-RFID-RC522)
+- [Arduino Uno with RFID sensor](https://github.com/juswa005/Arduino-RC522-Rfid.git)
 
 ### Software
 - Visual Studio 2019 or later
@@ -33,7 +33,7 @@ A minimal C# WinForms application that connects to an Arduino Uno via serial por
 5. Run the application (F5)
 
 ## Usage
-1. Connect your [Arduino RFID reader](https://github.com/your-username/Arduino-RFID-RC522) to PC via USB
+1. Connect your [Arduino RFID reader](https://github.com/juswa005/Arduino-RC522-Rfid.git) to PC via USB
 2. Launch the application
 3. Scan RFID cards/tags near the reader
 4. Tag IDs will appear in the textbox instantly
