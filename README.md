@@ -24,7 +24,8 @@ A minimal C# WinForms application that connects to an Arduino Uno via serial por
 - Visual Studio 2019 or later
 - .NET Framework 4.7.2 or later
 - Windows Forms App template  
-  ![VS](Docs/VS.jpg)
+  ![VS](Docs/VS.jpg)  
+> **Notice:** this is just an example, it is provided in the folder above.  
 
 ## Installation
 1. Clone this repository
@@ -33,7 +34,7 @@ A minimal C# WinForms application that connects to an Arduino Uno via serial por
 4. Configure COM port in Form1.cs if needed  
    ![Arduino-IDE](Docs/Arduino-ide.jpg)  
 
-> **Notice:** You can check the COM port here, this can be changed too be automatic later on.  
+> **Notice:** You can check the COM port here, this can be changed to be automatic later on.  
 6. Run the application (F5)
 
 ## Usage
@@ -49,6 +50,7 @@ A minimal C# WinForms application that connects to an Arduino Uno via serial por
 using System;
 using System.IO.Ports;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace RFIDReaderApp
 {
@@ -59,6 +61,7 @@ namespace RFIDReaderApp
         public Form1()
         {
             InitializeComponent();
+            
 
             serial.PortName = "COM4";  // CHANGE THIS
             serial.BaudRate = 9600;
@@ -78,13 +81,21 @@ namespace RFIDReaderApp
         {
             string data = serial.ReadLine().Trim();
 
-            this.Invoke(new Action(() =&gt;
+            //Cross-thread safe update
+            this.Invoke(new Action(() =>
             {
-                textBox1.Text = data;
+                textBox1.Text = data; // Display RFID tag in a textbox
             }));
+            
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
+
 ```  
 ---
 
