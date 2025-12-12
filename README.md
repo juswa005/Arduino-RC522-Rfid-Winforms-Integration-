@@ -31,7 +31,9 @@ A minimal C# WinForms application that connects to an Arduino Uno via serial por
 2. Open the solution file in Visual Studio
 3. Build the solution (Ctrl+Shift+B)
 4. Configure COM port in Form1.cs if needed  
-   ![Arduino-IDE](Docs/Arduino-ide.jpg)
+   ![Arduino-IDE](Docs/Arduino-ide.jpg)  
+
+> **Notice:** You can check the COM port here, this can be changed too be automatic later on.  
 6. Run the application (F5)
 
 ## Usage
