@@ -81,3 +81,18 @@ namespace RFIDReaderApp
         }
     }
 }
+
+---
+
+## Related Repository
+For Arduino wiring and firmware, see: [Arduino RFID RC522 Setup](https://github.com/juswa005/Arduino-RC522-Rfid.git)
+
+---
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## Author
+Amiel Josh Basug
