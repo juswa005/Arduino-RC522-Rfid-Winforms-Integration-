@@ -85,7 +85,7 @@ namespace RFIDReaderApp
 ---
 
 ## Related Repository
-For Arduino wiring and firmware, see: [Arduino RFID RC522 Setup](https://github.com/juswa005/Arduino-RC522-Rfid.git)
+For Arduino wiring and setup, see: [Arduino RFID RC522 Setup](https://github.com/juswa005/Arduino-RC522-Rfid.git)
 
 ---
 
